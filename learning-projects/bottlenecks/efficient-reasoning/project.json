@@ -1,0 +1,23 @@
+{
+  "id": "bottleneck-efficient-reasoning",
+  "title": "Efficient reasoning on smaller hardware",
+  "path": "bottlenecks/efficient-reasoning",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#bottleneck-efficient-reasoning",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/bottlenecks/efficient-reasoning",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/huggingface/optimum",
+  "source_commit": "87ba58464371163e4f23d8fcc155141bab8c55de",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/huggingface/optimum/tree/87ba58464371163e4f23d8fcc155141bab8c55de/optimum",
+  "source_scope": "Inference optimisation toolkit; backend/hardware support varies, and it is not the implementation of the cited quantisation paper.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/huggingface/optimum/blob/87ba58464371163e4f23d8fcc155141bab8c55de/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Plan two supported precision settings on the same small model and fixed cases; leave measurements blank until run.",
+    "checks": "Records quality, peak memory, time and tokens; compares resource use per successful task."
+  },
+  "results": []
+}

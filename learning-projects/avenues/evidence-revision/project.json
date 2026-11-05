@@ -1,0 +1,23 @@
+{
+  "id": "avenue-evidence",
+  "title": "Evidence integrity, provenance and dependent revision",
+  "path": "avenues/evidence-revision",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#avenue-evidence",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/avenues/evidence-revision",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/trungdong/prov",
+  "source_commit": "ff97842dfc03906f888d33d9760bc64e15f32d29",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/trungdong/prov/tree/ff97842dfc03906f888d33d9760bc64e15f32d29/src",
+  "source_scope": "W3C PROV implementation; lineage representation does not itself establish truth or propagate every model inference.",
+  "license": "MIT",
+  "license_url": "https://github.com/trungdong/prov/blob/ff97842dfc03906f888d33d9760bc64e15f32d29/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "R1 supports C1 which supports C2; correction R2 supersedes R1 while unrelated C3 stays fixed.",
+    "checks": "Tracks lineage and supersession; marks dependent conclusions for review; preserves unrelated control."
+  },
+  "results": []
+}

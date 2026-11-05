@@ -1,0 +1,23 @@
+{
+  "id": "bottleneck-world-models",
+  "title": "Physically faithful world models",
+  "path": "bottlenecks/physical-world-models",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#bottleneck-world-models",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/bottlenecks/physical-world-models",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/WorldModelBench-Team/WorldModelBench",
+  "source_commit": "00b7aa17a05f9fd1ab5c8f66bcf476d04c9c33bf",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/WorldModelBench-Team/WorldModelBench/blob/00b7aa17a05f9fd1ab5c8f66bcf476d04c9c33bf/evaluation.py",
+  "source_scope": "WorldModelBench evaluation script; a VLM judge is not an independent physical-law oracle. Reuse permission is not established.",
+  "license": "No top-level licence file identified; reuse permission not established",
+  "license_url": "https://github.com/WorldModelBench-Team/WorldModelBench/tree/00b7aa17a05f9fd1ab5c8f66bcf476d04c9c33bf",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Compare a predicted pendulum sequence with a controlled simulation using explicit position/time tolerances.",
+    "checks": "Separates visual quality, extraction error and physical inconsistency; records measurement tolerances."
+  },
+  "results": []
+}

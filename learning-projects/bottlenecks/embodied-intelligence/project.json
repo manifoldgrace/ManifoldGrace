@@ -1,0 +1,23 @@
+{
+  "id": "bottleneck-robotics",
+  "title": "Robotics and embodied intelligence",
+  "path": "bottlenecks/embodied-intelligence",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#bottleneck-robotics",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/bottlenecks/embodied-intelligence",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/EmbodiedBench/EmbodiedBench",
+  "source_commit": "9be4e980e9cd6bcb38373cd4aab7c32724bdd401",
+  "source_branch": "master",
+  "source_code_url": "https://github.com/EmbodiedBench/EmbodiedBench/tree/9be4e980e9cd6bcb38373cd4aab7c32724bdd401/embodiedbench",
+  "source_scope": "Embodied-agent benchmark source; simulator performance does not establish physical-world safety. Reuse permission is not established.",
+  "license": "No top-level licence file identified; reuse permission not established",
+  "license_url": "https://github.com/EmbodiedBench/EmbodiedBench/tree/9be4e980e9cd6bcb38373cd4aab7c32724bdd401",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Plan a simulated navigation task with one occluded object and one changed target location.",
+    "checks": "Separates perception, planning and execution failures; records simulator and scene settings."
+  },
+  "results": []
+}

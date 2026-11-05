@@ -1,0 +1,23 @@
+{
+  "id": "avenue-health",
+  "title": "Healthcare AI, evidence quality and research ethics",
+  "path": "avenues/health-evidence",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#avenue-health",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/avenues/health-evidence",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/Project-MONAI/MONAI",
+  "source_commit": "c5bddb21ccaaf3654a87c65ede6d2c7bd82e4128",
+  "source_branch": "dev",
+  "source_code_url": "https://github.com/Project-MONAI/MONAI/tree/c5bddb21ccaaf3654a87c65ede6d2c7bd82e4128/monai",
+  "source_scope": "Medical-imaging research framework; not a clinically validated service or substitute for domain review.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/Project-MONAI/MONAI/blob/c5bddb21ccaaf3654a87c65ede6d2c7bd82e4128/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Plan a synthetic image perturbation study with an unchanged label and separately recorded uncertainty.",
+    "checks": "Separates model performance from clinical validity; documents synthetic-data limits; records subgroup and shift assumptions."
+  },
+  "results": []
+}

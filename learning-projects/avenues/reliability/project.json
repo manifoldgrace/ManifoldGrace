@@ -1,0 +1,23 @@
+{
+  "id": "avenue-reliability",
+  "title": "Real-world AI reliability and evaluation",
+  "path": "avenues/reliability",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#avenue-reliability",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/avenues/reliability",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/UKGovernmentBEIS/inspect_ai",
+  "source_commit": "7cf09c929b3ea9138762ca9e4d8d23f119554ee6",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/UKGovernmentBEIS/inspect_ai/tree/7cf09c929b3ea9138762ca9e4d8d23f119554ee6/src",
+  "source_scope": "Evaluation framework; use explicit case/scorer definitions rather than treating benchmark success as proof of internal reasoning.",
+  "license": "MIT",
+  "license_url": "https://github.com/UKGovernmentBEIS/inspect_ai/blob/7cf09c929b3ea9138762ca9e4d8d23f119554ee6/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Give identical fictional evidence in familiar and reordered layouts, including one unanswerable question.",
+    "checks": "Tracks accuracy, abstention and calibration separately; records model/settings and scorer limits."
+  },
+  "results": []
+}

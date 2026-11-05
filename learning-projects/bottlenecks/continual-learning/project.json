@@ -1,0 +1,23 @@
+{
+  "id": "bottleneck-continual-learning",
+  "title": "Continual learning",
+  "path": "bottlenecks/continual-learning",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#bottleneck-continual-learning",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/bottlenecks/continual-learning",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/ContinualAI/avalanche",
+  "source_commit": "eb075be393e1f458b2c352514ff6c17b5a2c0f4e",
+  "source_branch": "master",
+  "source_code_url": "https://github.com/ContinualAI/avalanche/tree/eb075be393e1f458b2c352514ff6c17b5a2c0f4e/avalanche",
+  "source_scope": "Continual-learning framework; small learning experiments do not establish continuous autonomous LLM updating.",
+  "license": "MIT",
+  "license_url": "https://github.com/ContinualAI/avalanche/blob/eb075be393e1f458b2c352514ff6c17b5a2c0f4e/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Learn fictional task A, then task B; retest A alongside a no-update control.",
+    "checks": "Separates retention, transfer and forgetting; distinguishes weight updates from retrieval."
+  },
+  "results": []
+}

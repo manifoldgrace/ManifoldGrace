@@ -1,0 +1,23 @@
+{
+  "id": "avenue-infrastructure",
+  "title": "Energy, computing efficiency and physical infrastructure",
+  "path": "avenues/energy-compute",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#avenue-infrastructure",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/avenues/energy-compute",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/mlco2/codecarbon",
+  "source_commit": "ab8627a1cc88d3e5bb8b4ee953891a677ecdd49c",
+  "source_branch": "master",
+  "source_code_url": "https://github.com/mlco2/codecarbon/tree/ab8627a1cc88d3e5bb8b4ee953891a677ecdd49c/codecarbon",
+  "source_scope": "Emissions/energy estimation toolkit; distinguish estimates from direct power measurement and grid constraints.",
+  "license": "MIT",
+  "license_url": "https://github.com/mlco2/codecarbon/blob/ab8627a1cc88d3e5bb8b4ee953891a677ecdd49c/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Compare two bounded local tasks with the same output target; begin with a measurement plan and no invented energy readings.",
+    "checks": "Records hardware, duration and estimation method; compares cost per successful task; preserves uncertainty."
+  },
+  "results": []
+}

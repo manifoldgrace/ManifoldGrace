@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-5",
+  "title": "Meta — Llama / Model API",
+  "path": "companies/05-meta-evidence",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-5",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/05-meta-evidence",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/meta-llama/llama-models",
+  "source_commit": "0e0b8c519242d5833d8c11bffc1232b77ad7f301",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/meta-llama/llama-models/tree/0e0b8c519242d5833d8c11bffc1232b77ad7f301/models",
+  "source_scope": "Llama reference utilities and model-specific materials; custom terms vary by model. Not a complete hosted API.",
+  "license": "Model-specific custom Llama terms; inspect the selected model licence",
+  "license_url": "https://github.com/meta-llama/llama-models/blob/0e0b8c519242d5833d8c11bffc1232b77ad7f301/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "R1 supports only the first half of a two-part claim. Request separate support judgements for each half.",
+    "checks": "Scores subclaims separately; records unsupported material; separates model output from evidence validity."
+  },
+  "results": []
+}

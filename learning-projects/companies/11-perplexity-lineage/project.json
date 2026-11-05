@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-11",
+  "title": "Perplexity — Search / Sonar / Agent APIs",
+  "path": "companies/11-perplexity-lineage",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-11",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/11-perplexity-lineage",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/perplexityai/perplexity-py",
+  "source_commit": "1a79c5d3a7b1ef8c2dce17c0f0aa7e23f9bbdced",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/perplexityai/perplexity-py/tree/1a79c5d3a7b1ef8c2dce17c0f0aa7e23f9bbdced/src",
+  "source_scope": "Official API client; not the proprietary search index or research engine.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/perplexityai/perplexity-py/blob/1a79c5d3a7b1ef8c2dce17c0f0aa7e23f9bbdced/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Three cited pages all derive from bulletin R1; a later primary correction R2 disagrees.",
+    "checks": "Counts independent origins rather than pages; records version dates; flags unresolved support."
+  },
+  "results": []
+}

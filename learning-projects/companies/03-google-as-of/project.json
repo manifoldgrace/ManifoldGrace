@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-3",
+  "title": "Google — Gemini / Google AI",
+  "path": "companies/03-google-as-of",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-3",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/03-google-as-of",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/googleapis/python-genai",
+  "source_commit": "0e3483167f9fc79a99a45992f8bf2aee68056629",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/googleapis/python-genai/tree/0e3483167f9fc79a99a45992f8bf2aee68056629/google",
+  "source_scope": "Official Gemini API client; not a historical web archive.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/googleapis/python-genai/blob/0e3483167f9fc79a99a45992f8bf2aee68056629/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Policy R1 published 1 January permits X; correction R2 published 1 March forbids X. Ask what was knowable on 1 February.",
+    "checks": "Separates publication and effective dates; excludes later knowledge; abstains if a version is unavailable."
+  },
+  "results": []
+}

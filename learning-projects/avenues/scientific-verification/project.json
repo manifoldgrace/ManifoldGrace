@@ -1,0 +1,23 @@
+{
+  "id": "avenue-science",
+  "title": "Scientific discovery and independent verification",
+  "path": "avenues/scientific-verification",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#avenue-science",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/avenues/scientific-verification",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/stanford-crfm/helm",
+  "source_commit": "63754d05db6f874e41a395880fb573890a13e791",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/stanford-crfm/helm/tree/63754d05db6f874e41a395880fb573890a13e791/src",
+  "source_scope": "Model evaluation framework; scientific discoveries still need domain-specific independent verification.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/stanford-crfm/helm/blob/63754d05db6f874e41a395880fb573890a13e791/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "An assistant proposes two fictional hypotheses, one contradicted by a held-out observation.",
+    "checks": "Records falsifiable predictions; separates hypothesis generation from confirmation; preserves contrary evidence."
+  },
+  "results": []
+}

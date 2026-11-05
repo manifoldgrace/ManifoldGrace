@@ -1,0 +1,23 @@
+{
+  "id": "bottleneck-unlearning",
+  "title": "Machine unlearning",
+  "path": "bottlenecks/machine-unlearning",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#bottleneck-unlearning",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/bottlenecks/machine-unlearning",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/jaechan-repo/muse_bench",
+  "source_commit": "6d4fdcbdebe4ad46dccaf70f8526cd23ecff609e",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/jaechan-repo/muse_bench/tree/6d4fdcbdebe4ad46dccaf70f8526cd23ecff609e/metrics",
+  "source_scope": "Original MUSE evaluation code; not the exact implementation of every later unlearning critique. Reuse permission is not established.",
+  "license": "No top-level licence file identified; reuse permission not established",
+  "license_url": "https://github.com/jaechan-repo/muse_bench/tree/6d4fdcbdebe4ad46dccaf70f8526cd23ecff609e",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Remove a fictional target fact while retaining unrelated facts; test both recall and retained-task utility.",
+    "checks": "Distinguishes refusal from removal; records probe information leakage; measures collateral changes."
+  },
+  "results": []
+}

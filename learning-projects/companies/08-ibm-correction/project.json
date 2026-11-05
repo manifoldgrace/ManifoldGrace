@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-8",
+  "title": "IBM — watsonx / API Connect",
+  "path": "companies/08-ibm-correction",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-8",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/08-ibm-correction",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/IBM/watsonx-ai-samples",
+  "source_commit": "7db9775e1ec57032d97c0bd2f3596aa57072e3d5",
+  "source_branch": "master",
+  "source_code_url": "https://github.com/IBM/watsonx-ai-samples/tree/7db9775e1ec57032d97c0bd2f3596aa57072e3d5/cloud",
+  "source_scope": "watsonx sample notebooks/apps; not the internal API Connect appeals implementation.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/IBM/watsonx-ai-samples/blob/7db9775e1ec57032d97c0bd2f3596aa57072e3d5/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "A fictional decision cites R1; an appeal accepts corrected R2. Identify which dependent decisions need review.",
+    "checks": "Keeps appeal history; updates affected conclusions; preserves unrelated decisions."
+  },
+  "results": []
+}

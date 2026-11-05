@@ -1,0 +1,23 @@
+{
+  "id": "bottleneck-computer-use",
+  "title": "Long-horizon computer operation",
+  "path": "bottlenecks/computer-use",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#bottleneck-computer-use",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/bottlenecks/computer-use",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/xlang-ai/OSWorld",
+  "source_commit": "8903ebeb0efdf74331bd7dc37ed91ccbbff22317",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/xlang-ai/OSWorld/tree/8903ebeb0efdf74331bd7dc37ed91ccbbff22317/desktop_env",
+  "source_scope": "Computer-use benchmark environment; inspect benchmark version before comparing against OSWorld 2.0 claims.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/xlang-ai/OSWorld/blob/8903ebeb0efdf74331bd7dc37ed91ccbbff22317/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "In a sandbox, rename a fictional file, update its index and recover from a changed button label.",
+    "checks": "Records step count, unintended actions and recovery; keeps all files fictional and isolated."
+  },
+  "results": []
+}

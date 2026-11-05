@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-2",
+  "title": "Anthropic — Claude API / Claude Code",
+  "path": "companies/02-anthropic-citations",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-2",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/02-anthropic-citations",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/anthropics/anthropic-sdk-python",
+  "source_commit": "4c7b598466b88559583f98216139be8e9b34c1fc",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/anthropics/anthropic-sdk-python/tree/4c7b598466b88559583f98216139be8e9b34c1fc/src",
+  "source_scope": "Official API client; native citation and schema compatibility remain service-side questions.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/anthropics/anthropic-sdk-python/blob/4c7b598466b88559583f98216139be8e9b34c1fc/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Source R1 permits processing except for withdrawn consent; extract a decision and its exact supporting span.",
+    "checks": "Preserves exception; span supports the extracted field; records endpoint compatibility."
+  },
+  "results": []
+}

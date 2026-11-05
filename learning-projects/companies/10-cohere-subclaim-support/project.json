@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-10",
+  "title": "Cohere — Command / RAG",
+  "path": "companies/10-cohere-subclaim-support",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-10",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/10-cohere-subclaim-support",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/cohere-ai/cohere-python",
+  "source_commit": "a37a6cffd014c3d3835f9a9f4bc963dc83cd9569",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/cohere-ai/cohere-python/tree/a37a6cffd014c3d3835f9a9f4bc963dc83cd9569/src",
+  "source_scope": "Official API client; citation attachment alone does not prove evidential support.",
+  "license": "MIT",
+  "license_url": "https://github.com/cohere-ai/cohere-python/blob/a37a6cffd014c3d3835f9a9f4bc963dc83cd9569/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "R1 says service A operates Mondays; output claims it operates Mondays and Tuesdays.",
+    "checks": "Separates the two claims; identifies unsupported Tuesday claim; checks quoted evidence."
+  },
+  "results": []
+}

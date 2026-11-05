@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-20",
+  "title": "Glean — enterprise retrieval / citations / connectors",
+  "path": "companies/20-glean-freshness",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-20",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/20-glean-freshness",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/gleanwork/api-client-python",
+  "source_commit": "50e64f3be7cc7adb2dc4966b4381296cf4739faa",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/gleanwork/api-client-python/tree/50e64f3be7cc7adb2dc4966b4381296cf4739faa/src",
+  "source_scope": "Official API client; enterprise connectors and permissions require an authorised test tenant.",
+  "license": "MIT",
+  "license_url": "https://github.com/gleanwork/api-client-python/blob/50e64f3be7cc7adb2dc4966b4381296cf4739faa/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Compare fictional OCR text through upload versus connector paths, then revoke access to the source.",
+    "checks": "Records extraction coverage, source age and permission status separately; avoids inferring access from a citation pointer."
+  },
+  "results": []
+}

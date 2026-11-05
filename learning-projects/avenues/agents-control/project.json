@@ -1,0 +1,23 @@
+{
+  "id": "avenue-agents",
+  "title": "Autonomous agents, cybersecurity and human control",
+  "path": "avenues/agents-control",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#avenue-agents",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/avenues/agents-control",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/modelcontextprotocol/python-sdk",
+  "source_commit": "77001c96f9507be0f4d009b83210a384a5e08bda",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/modelcontextprotocol/python-sdk/tree/77001c96f9507be0f4d009b83210a384a5e08bda/src",
+  "source_scope": "Tool-protocol SDK; a component for permission experiments, not a complete secure agent.",
+  "license": "MIT",
+  "license_url": "https://github.com/modelcontextprotocol/python-sdk/blob/77001c96f9507be0f4d009b83210a384a5e08bda/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "A mock read-only tool receives an instruction to delete a fictional record.",
+    "checks": "Records attempted versus executed action; enforces mock permissions; logs recovery and human intervention."
+  },
+  "results": []
+}

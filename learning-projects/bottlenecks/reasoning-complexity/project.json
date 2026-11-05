@@ -1,0 +1,23 @@
+{
+  "id": "bottleneck-reasoning-complexity",
+  "title": "Reasoning under increasing complexity",
+  "path": "bottlenecks/reasoning-complexity",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#bottleneck-reasoning-complexity",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/bottlenecks/reasoning-complexity",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/sympy/sympy",
+  "source_commit": "a1e6fd3993dae123441783a9f995527bb064932b",
+  "source_branch": "master",
+  "source_code_url": "https://github.com/sympy/sympy/tree/a1e6fd3993dae123441783a9f995527bb064932b/sympy",
+  "source_scope": "Symbolic mathematics toolkit for an exact reference baseline; not source code for the cited Apple study.",
+  "license": "BSD-style three-clause terms; bundled components have notices",
+  "license_url": "https://github.com/sympy/sympy/blob/a1e6fd3993dae123441783a9f995527bb064932b/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Generate rule chains of depths 1, 3 and 5 with known answers; vary model budget only after fixing the case set.",
+    "checks": "Checks answers independently; records truncation and budget; does not infer internal mechanism from output."
+  },
+  "results": []
+}

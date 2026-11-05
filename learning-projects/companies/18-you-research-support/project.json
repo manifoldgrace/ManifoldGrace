@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-18",
+  "title": "You.com — Research / Answer APIs",
+  "path": "companies/18-you-research-support",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-18",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/18-you-research-support",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/youdotcom-oss/youdotcom-python-sdk",
+  "source_commit": "64263a0029efb956b82da4712d74765ec0f5ee53",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/youdotcom-oss/youdotcom-python-sdk/tree/64263a0029efb956b82da4712d74765ec0f5ee53/src",
+  "source_scope": "Official API client; cited research results require independent source checking.",
+  "license": "MIT",
+  "license_url": "https://github.com/youdotcom-oss/youdotcom-python-sdk/blob/64263a0029efb956b82da4712d74765ec0f5ee53/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "One source supports a compound claim only partly; another is a duplicate of the first.",
+    "checks": "Scores support per claim; traces duplicate ancestry; records inaccessible evidence."
+  },
+  "results": []
+}

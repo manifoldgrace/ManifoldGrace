@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-16",
+  "title": "Moonshot — Kimi / Kimi Code",
+  "path": "companies/16-kimi-compaction",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-16",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/16-kimi-compaction",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/MoonshotAI/kimi-code",
+  "source_commit": "df90d90ec0714db23dcc830acd2db6232f5c7426",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/MoonshotAI/kimi-code/tree/df90d90ec0714db23dcc830acd2db6232f5c7426/packages",
+  "source_scope": "Coding-agent source, including session/context machinery; not all Kimi service internals.",
+  "license": "MIT",
+  "license_url": "https://github.com/MoonshotAI/kimi-code/blob/df90d90ec0714db23dcc830acd2db6232f5c7426/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "History contains a revoked permission and an emergency exception; compact, then inject a dated correction.",
+    "checks": "Preserves qualifications and record IDs; updates dependent decision; logs lost conditions."
+  },
+  "results": []
+}

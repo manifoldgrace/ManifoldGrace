@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-15",
+  "title": "Alibaba — Qwen / Qwen Code",
+  "path": "companies/15-qwen-rule-state",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-15",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/15-qwen-rule-state",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/QwenLM/qwen-code",
+  "source_commit": "7bd78683e63a50334fbcb124568101868048264c",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/QwenLM/qwen-code/tree/7bd78683e63a50334fbcb124568101868048264c/packages",
+  "source_scope": "Coding-agent source; parent/subagent rule ownership can be inspected here.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/QwenLM/qwen-code/blob/7bd78683e63a50334fbcb124568101868048264c/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Parent sees a conditional rule; child receives the same trigger. Record which context consumes and receives the reminder.",
+    "checks": "Records per-context state; compares intended and observed ownership; reproduces before proposing a fix."
+  },
+  "results": []
+}

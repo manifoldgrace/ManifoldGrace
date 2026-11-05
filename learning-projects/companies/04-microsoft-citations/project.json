@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-4",
+  "title": "Microsoft — Microsoft 365 Copilot",
+  "path": "companies/04-microsoft-citations",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-4",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/04-microsoft-citations",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/microsoft/autogen",
+  "source_commit": "d07c667a3239ea4ab7af62a53b0f4ff205a1f23d",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/microsoft/autogen/tree/d07c667a3239ea4ab7af62a53b0f4ff205a1f23d/python",
+  "source_scope": "Agent framework for a local analogue; not Microsoft 365 Copilot implementation or tenant audit code.",
+  "license": "MIT for code; CC-BY-4.0 for documentation",
+  "license_url": "https://github.com/microsoft/autogen/blob/d07c667a3239ea4ab7af62a53b0f4ff205a1f23d/LICENSE-CODE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "A fictional source is cited, then superseded and access revoked. Compare historical answer pointers with newly retrieved content.",
+    "checks": "Distinguishes stale pointer from unauthorised access; records version and permissions; tests a local analogue only."
+  },
+  "results": []
+}

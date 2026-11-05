@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-6",
+  "title": "Amazon — AWS / Bedrock",
+  "path": "companies/06-aws-historical-retrieval",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-6",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/06-aws-historical-retrieval",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/aws-samples/amazon-bedrock-samples",
+  "source_commit": "d481795702a043af8fcedfdf843b94ec20224675",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/aws-samples/amazon-bedrock-samples/tree/d481795702a043af8fcedfdf843b94ec20224675/rag",
+  "source_scope": "Bedrock sample applications; the managed knowledge-base service remains external.",
+  "license": "MIT-0",
+  "license_url": "https://github.com/aws-samples/amazon-bedrock-samples/blob/d481795702a043af8fcedfdf843b94ec20224675/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Index two fictional policy versions with different publication/effective dates; request the version available at a past date.",
+    "checks": "Records selected version; notices missing archive; avoids hindsight contamination."
+  },
+  "results": []
+}

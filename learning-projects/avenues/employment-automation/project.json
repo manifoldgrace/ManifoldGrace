@@ -1,0 +1,23 @@
+{
+  "id": "avenue-employment",
+  "title": "Employment, income distribution and beneficial automation",
+  "path": "avenues/employment-automation",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#avenue-employment",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/avenues/employment-automation",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/mesa/mesa",
+  "source_commit": "013d2bbbba7f999962e041a0741c630ae61863ee",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/mesa/mesa/tree/013d2bbbba7f999962e041a0741c630ae61863ee/mesa",
+  "source_scope": "Agent-based simulation framework; simulated labour outcomes are conditional hypotheses, not economic forecasts.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/mesa/mesa/blob/013d2bbbba7f999962e041a0741c630ae61863ee/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Model ten fictional workers, two employers and an automation intervention with a fixed training-access assumption.",
+    "checks": "Records assumptions and sensitivity; separates exposure from displacement; tracks distribution of gains."
+  },
+  "results": []
+}

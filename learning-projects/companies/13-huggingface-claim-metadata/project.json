@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-13",
+  "title": "Hugging Face — Hub / libraries",
+  "path": "companies/13-huggingface-claim-metadata",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-13",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/13-huggingface-claim-metadata",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/huggingface/huggingface_hub",
+  "source_commit": "fd5dccbb731e212df4f1dfa53b8f406b866070d3",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/huggingface/huggingface_hub/tree/fd5dccbb731e212df4f1dfa53b8f406b866070d3/src",
+  "source_scope": "Hub client source; claim-level metadata is an extension to investigate.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/huggingface/huggingface_hub/blob/fd5dccbb731e212df4f1dfa53b8f406b866070d3/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Create local metadata for claim C1 supported by R1, disputed by R2 and corrected by R3.",
+    "checks": "Preserves all evidence relations; distinguishes unknown from false; retains contributor attribution."
+  },
+  "results": []
+}

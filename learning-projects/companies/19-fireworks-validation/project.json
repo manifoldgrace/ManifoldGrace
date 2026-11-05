@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-19",
+  "title": "Fireworks AI — structured generation / inference",
+  "path": "companies/19-fireworks-validation",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-19",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/19-fireworks-validation",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/fw-ai-external/cookbook",
+  "source_commit": "8f5500758ed4a9bb8f6cc34969cceb30ecb7ba07",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/fw-ai-external/cookbook/tree/8f5500758ed4a9bb8f6cc34969cceb30ecb7ba07/eval",
+  "source_scope": "Official cookbook evaluation examples; not the hosted inference implementation.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/fw-ai-external/cookbook/blob/8f5500758ed4a9bb8f6cc34969cceb30ecb7ba07/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Feed a saved valid-JSON response and a schema-transformed wrapper response to a local validator.",
+    "checks": "Separates direct versus wrapper changes; distinguishes schema validity from factual support; preserves raw outputs."
+  },
+  "results": []
+}

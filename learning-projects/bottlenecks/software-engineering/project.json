@@ -1,0 +1,23 @@
+{
+  "id": "bottleneck-software-engineering",
+  "title": "End-to-end software engineering",
+  "path": "bottlenecks/software-engineering",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#bottleneck-software-engineering",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/bottlenecks/software-engineering",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/openai/frontier-evals",
+  "source_commit": "b78dab1da774a6456b1ed9c48c9ff194ee3ff36d",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/openai/frontier-evals/tree/b78dab1da774a6456b1ed9c48c9ff194ee3ff36d/project",
+  "source_scope": "Evaluation collection containing software-engineering research tasks; inspect the selected task and data terms before running.",
+  "license": "MIT",
+  "license_url": "https://github.com/openai/frontier-evals/blob/b78dab1da774a6456b1ed9c48c9ff194ee3ff36d/LICENSE.md",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Seed a bug in a tiny local repository and keep independent acceptance/regression tests separate from the patch prompt.",
+    "checks": "Records diagnosis, patch and regression outcomes separately; rejects passing tests as proof of complete requirements."
+  },
+  "results": []
+}

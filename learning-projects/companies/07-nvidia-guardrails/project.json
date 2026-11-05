@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-7",
+  "title": "NVIDIA — NeMo Guardrails",
+  "path": "companies/07-nvidia-guardrails",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-7",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/07-nvidia-guardrails",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/NVIDIA-NeMo/Guardrails",
+  "source_commit": "96a8a438099bd17c703de60273722f819edfef51",
+  "source_branch": "develop",
+  "source_code_url": "https://github.com/NVIDIA-NeMo/Guardrails/tree/96a8a438099bd17c703de60273722f819edfef51/nemoguardrails",
+  "source_scope": "Guardrail toolkit; no guarantee of complete fact checking or source independence.",
+  "license": "Apache-2.0; inspect third-party notices",
+  "license_url": "https://github.com/NVIDIA-NeMo/Guardrails/blob/96a8a438099bd17c703de60273722f819edfef51/LICENSE.md",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Ten copied reports repeat R1; one authoritative correction R2 supersedes it.",
+    "checks": "Tracks shared ancestry; recognises supersession; records guardrail false alarms separately."
+  },
+  "results": []
+}

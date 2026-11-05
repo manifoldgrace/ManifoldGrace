@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-9",
+  "title": "Mistral — Studio / connectors / agents",
+  "path": "companies/09-mistral-connectors",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-9",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/09-mistral-connectors",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/mistralai/client-python",
+  "source_commit": "d3da3bd3c63d0502449e1e765bc2d3c16d0d2f1d",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/mistralai/client-python/tree/d3da3bd3c63d0502449e1e765bc2d3c16d0d2f1d/src",
+  "source_scope": "Official API client; connector availability and traces depend on the selected service.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/mistralai/client-python/blob/d3da3bd3c63d0502449e1e765bc2d3c16d0d2f1d/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Connector A returns obsolete R1; connector B returns corrected R2 with the same subject ID.",
+    "checks": "Retains connector/source IDs; exposes conflict; records correction impact without fabricating traces."
+  },
+  "results": []
+}

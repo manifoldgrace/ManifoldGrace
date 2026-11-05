@@ -1,0 +1,23 @@
+{
+  "id": "avenue-culture",
+  "title": "Language, culture and unequal model performance",
+  "path": "avenues/language-culture",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#avenue-culture",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/avenues/language-culture",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/fairlearn/fairlearn",
+  "source_commit": "82b4a089872cd3ab6e3b4923fbd04c0138794230",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/fairlearn/fairlearn/tree/82b4a089872cd3ab6e3b4923fbd04c0138794230/fairlearn",
+  "source_scope": "Disaggregated metric toolkit; cultural meaning, representation and translation quality need context-sensitive human review.",
+  "license": "MIT",
+  "license_url": "https://github.com/fairlearn/fairlearn/blob/82b4a089872cd3ab6e3b4923fbd04c0138794230/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Create paired fictional prompts with equivalent intent in two language varieties and annotate meaning preservation.",
+    "checks": "Separates aggregate from subgroup errors; records annotator disagreement; avoids treating one score as cultural competence."
+  },
+  "results": []
+}

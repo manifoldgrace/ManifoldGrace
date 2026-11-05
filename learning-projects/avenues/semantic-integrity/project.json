@@ -1,0 +1,23 @@
+{
+  "id": "avenue-communication",
+  "title": "Public communication, ambiguity and consequential omissions",
+  "path": "avenues/semantic-integrity",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#avenue-communication",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/avenues/semantic-integrity",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/explosion/spaCy",
+  "source_commit": "7ff14d4da84817f84c32b980882178ddacc066a1",
+  "source_branch": "master",
+  "source_code_url": "https://github.com/explosion/spaCy/tree/7ff14d4da84817f84c32b980882178ddacc066a1/spacy",
+  "source_scope": "Linguistic analysis toolkit; token/dependency analysis is not an automatic truth, omission or intent detector.",
+  "license": "MIT",
+  "license_url": "https://github.com/explosion/spaCy/blob/7ff14d4da84817f84c32b980882178ddacc066a1/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Summarise: applicants may appeal within 30 days unless a documented extension applies.",
+    "checks": "Retains deadline and exception; compares reasonable interpretations; records reader-review findings separately."
+  },
+  "results": []
+}

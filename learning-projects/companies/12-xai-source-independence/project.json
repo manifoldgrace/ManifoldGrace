@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-12",
+  "title": "xAI — Grok / tools",
+  "path": "companies/12-xai-source-independence",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-12",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/12-xai-source-independence",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/xai-org/xai-sdk-python",
+  "source_commit": "884ba42c74408c37eddcc8092e0299dbd8dd38ac",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/xai-org/xai-sdk-python/tree/884ba42c74408c37eddcc8092e0299dbd8dd38ac/src",
+  "source_scope": "Official API client; does not expose Grok training data or source ancestry automatically.",
+  "license": "Apache-2.0",
+  "license_url": "https://github.com/xai-org/xai-sdk-python/blob/884ba42c74408c37eddcc8092e0299dbd8dd38ac/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Two outlets copy the same fictional press release while one independent observation conflicts.",
+    "checks": "Records common origin; retains contradiction; does not count agreement as independence."
+  },
+  "results": []
+}

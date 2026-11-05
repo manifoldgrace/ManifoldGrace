@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+observations.jsonl
+.env
+.env.*
+upstream/

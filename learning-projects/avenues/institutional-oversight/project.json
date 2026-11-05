@@ -1,0 +1,23 @@
+{
+  "id": "avenue-institutions",
+  "title": "Institutional accountability and effective oversight",
+  "path": "avenues/institutional-oversight",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#avenue-institutions",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/avenues/institutional-oversight",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/fairlearn/fairlearn",
+  "source_commit": "82b4a089872cd3ab6e3b4923fbd04c0138794230",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/fairlearn/fairlearn/tree/82b4a089872cd3ab6e3b4923fbd04c0138794230/fairlearn",
+  "source_scope": "Fairness assessment toolkit for one oversight component; appeals, authority and institutional remedies need a separate process design.",
+  "license": "MIT",
+  "license_url": "https://github.com/fairlearn/fairlearn/blob/82b4a089872cd3ab6e3b4923fbd04c0138794230/LICENSE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "A fictional eligibility classifier has different error rates across two groups; append a manual appeal and correction record.",
+    "checks": "Keeps metric definitions explicit; identifies review owner; does not equate parity with complete institutional fairness."
+  },
+  "results": []
+}

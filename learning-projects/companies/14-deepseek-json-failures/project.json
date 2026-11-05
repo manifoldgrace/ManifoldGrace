@@ -1,0 +1,23 @@
+{
+  "id": "company-gap-14",
+  "title": "DeepSeek — JSON Output",
+  "path": "companies/14-deepseek-json-failures",
+  "canonical_url": "https://manifoldgrace.github.io/feature-contributions.html#company-gap-14",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/companies/14-deepseek-json-failures",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/deepseek-ai/DeepSeek-V3",
+  "source_commit": "9b4e9788e4a3a731f7567338ed15d3ec549ce03b",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/deepseek-ai/DeepSeek-V3/tree/9b4e9788e4a3a731f7567338ed15d3ec549ce03b/inference",
+  "source_scope": "Reference inference code, not the hosted JSON-mode implementation; model weights have separate terms.",
+  "license": "MIT for code; model weights have separate terms",
+  "license_url": "https://github.com/deepseek-ai/DeepSeek-V3/blob/9b4e9788e4a3a731f7567338ed15d3ec549ce03b/LICENSE-CODE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Use saved responses: empty string, whitespace, truncated JSON and valid JSON with an unsupported claim.",
+    "checks": "Separates transport, format, schema and evidence failures; does not treat valid JSON as true."
+  },
+  "results": []
+}

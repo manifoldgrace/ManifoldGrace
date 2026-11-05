@@ -1,0 +1,23 @@
+{
+  "id": "bottleneck-multi-agent",
+  "title": "Multi-agent collaboration",
+  "path": "bottlenecks/multi-agent-coordination",
+  "canonical_url": "https://manifoldgrace.github.io/emerging-horizon-research.html#bottleneck-multi-agent",
+  "workspace_url": "https://github.com/manifoldgrace/ManifoldGrace/tree/main/learning-projects/bottlenecks/multi-agent-coordination",
+  "checked_on": "2026-11-05",
+  "status": "scaffold_created_not_run",
+  "source_repository": "https://github.com/microsoft/autogen",
+  "source_commit": "d07c667a3239ea4ab7af62a53b0f4ff205a1f23d",
+  "source_branch": "main",
+  "source_code_url": "https://github.com/microsoft/autogen/tree/d07c667a3239ea4ab7af62a53b0f4ff205a1f23d/python",
+  "source_scope": "Agent orchestration framework; use as a test system rather than claiming it implements the MAST paper.",
+  "license": "MIT for code; CC-BY-4.0 for documentation",
+  "license_url": "https://github.com/microsoft/autogen/blob/d07c667a3239ea4ab7af62a53b0f4ff205a1f23d/LICENSE-CODE",
+  "upstream_code_imported": false,
+  "pilot": {
+    "id": "fictional-pilot-01",
+    "input": "Compare one agent with two role-separated agents on the same fictional evidence set under equal total budget.",
+    "checks": "Tracks handoff loss, shared assumptions and completion; distinguishes agreement from independent checking."
+  },
+  "results": []
+}
