@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/youdotcom-oss/youdotcom-python-sdk/tree/64263a0029efb956b82da4712d74765ec0f5ee53/src,64263a0029efb956b82da4712d74765ec0f5ee53,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Official API client; cited research results require independent source checking.

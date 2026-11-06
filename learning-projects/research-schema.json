@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "sections": [
+    {
+      "id": "question",
+      "title": "Research question, scope and contribution",
+      "prompt": "Define the problem, unit of analysis, intended audience, terms, exclusions and success criteria. State whether the work is exploratory, replication, evaluation, extension or a combination. Record why the question matters and what would count against the proposed answer."
+    },
+    {
+      "id": "history",
+      "title": "Historical development and primary evidence",
+      "prompt": "Trace dated milestones through original papers, repositories, releases, design records and originator links. Distinguish first proposal, implementation, release and later interpretation. Attribute documented rationales; label your own reconstruction of why a choice was made as an inference and consider alternatives."
+    },
+    {
+      "id": "inspection",
+      "title": "Source-code inspection and annotated implementation",
+      "prompt": "Record the exact revision, relevant files/functions, dependencies, licences and the path from input to output. Annotate what each important component does, its assumptions and limits. Separate upstream code, your changes, original code and AI assistance. Do not equate an SDK with the proprietary service it accesses."
+    },
+    {
+      "id": "science",
+      "title": "Scientific framing and evaluation design",
+      "prompt": "Define constructs, hypotheses or exploratory questions, operational measures and competing explanations. Specify case selection, controls, baselines, interventions, sampling, repetition/seeds where applicable, budgets and uncertainty. Address construct, internal, external and ecological validity. Separate pre-specified tests from post-hoc exploration and statistical significance from practical importance."
+    },
+    {
+      "id": "architecture",
+      "title": "Architecture, interfaces and execution environment",
+      "prompt": "Draw components, data flows, protocols, trust boundaries, state, storage and dependencies. Distinguish observed architecture from proposed designs and unknown internals. Identify where computation runs: browser, local Python, remote API, cloud CPU/GPU or simulator. Discuss latency, memory, cost, access and failure recovery. Include Infrastructure as Code (IaC) or unified communications only where genuinely relevant."
+    },
+    {
+      "id": "extension",
+      "title": "Comparative design and original contribution",
+      "prompt": "Compare the upstream baseline with your replication, alternative or extension using matched conditions and explicit differences. Explain design choices and trade-offs. Candidate contribution may be a method, negative result, dataset, diagnostic, implementation, synthesis or collaboration; originality remains a claim to investigate through prior-art checking, not an automatic property of hand-written text."
+    },
+    {
+      "id": "implementation",
+      "title": "Implementation and reproducibility",
+      "prompt": "Record environment/dependency versions, setup commands, fictional or authorised data, configuration, deterministic checks and model/API details. Preserve raw inputs/outputs and versioned transformations. Provide a small reproducible example; distinguish a visual demonstration, mock, offline test and live integration. Document changes and rollback/recovery steps."
+    },
+    {
+      "id": "results",
+      "title": "Observations, failures and uncertainty",
+      "prompt": "Report observations and failures with denominators, configurations, exceptions, missing runs and relevant uncertainty. Link each claim to raw evidence and scoring rules. Separate observed behaviour from inferred mechanisms, anecdote from repeated findings and tool/harness errors from model failures. Include null and negative results; never invent a chart or completed run."
+    },
+    {
+      "id": "society",
+      "title": "Ethical, societal and governance analysis",
+      "prompt": "Consider affected groups, access, power, labour, cultural context, privacy, consent, distribution of benefits/harms and routes of challenge. Explain the ethical or sociotechnical framework used and its limitations. Assess the selected system/version at its evidenced lifecycle stage rather than assuming a universal AI maturity level. Separate normative recommendations from empirical findings."
+    },
+    {
+      "id": "assurance",
+      "title": "Quality assurance, security and the SDLC",
+      "prompt": "Select proportionate checks across requirements, design, implementation, testing, integration, deployment and maintenance. Distinguish scientific evaluation from unit/integration/regression, adversarial, accessibility and user-acceptance testing. Record threat models, permissions, secrets, dependencies, data handling, human review, CI/CD gates and rollback. A check passed or framework referenced is not certification or a guarantee of safety."
+    },
+    {
+      "id": "roadmap",
+      "title": "End-to-end plan, milestones and decisions",
+      "prompt": "Map the route from question and literature/code inspection to design, implementation, evaluation, interpretation, review and handoff. For each milestone specify deliverable, acceptance evidence, dependencies, resource budget and next action. Revisit earlier stages when findings change the question. Mark actual versus planned completion explicitly."
+    },
+    {
+      "id": "figures",
+      "title": "Illustrations, architecture and educational explanation",
+      "prompt": "Use architecture/sequence diagrams for relationships, charts for measured results and annotated screenshots for observed behaviour. Provide captions, legends, units, uncertainty, alt text, source/version and creation method. Keep conceptual illustrations separate from empirical evidence. Pinterest is a discovery lead: locate the original source and reuse permission before uploading an image; record attribution and AI generation where applicable."
+    },
+    {
+      "id": "conclusions",
+      "title": "Interpretation, contribution and limitations",
+      "prompt": "Answer the bounded research question at the strength supported by the evidence. Explain what the approach adds, changes or enables, where the baseline remains better and what remains unresolved. Relate conclusions to theories and terminology accurately. Separate demonstrated improvement, suggestive evidence, design proposal and future hypothesis; state limitations and a practical next investigation."
+    },
+    {
+      "id": "release",
+      "title": "Accessible handoff, research release and dissemination",
+      "prompt": "Prepare a versioned package of report, code, permitted data/fixtures, figures, environment/run instructions, licence/attribution, limitations, contribution record and change log. Record accessibility review, evidence checks and reproducibility status. Decide whether it is a working note, technical report, preprint, software release or dataset. A public release is not peer review. Link an exact commit/tag and, if actually deposited, a version-specific persistent identifier. Draft originator feedback separately; do not infer receipt, collaboration or endorsement from sending it."
+    }
+  ],
+  "stages": [
+    {
+      "id": "scope",
+      "title": "Question and evidence map",
+      "evidence": "Bounded question, search scope and primary-source register"
+    },
+    {
+      "id": "inspect",
+      "title": "History and code inspection",
+      "evidence": "Dated lineage, annotated source paths and architecture boundaries"
+    },
+    {
+      "id": "design",
+      "title": "Comparative design",
+      "evidence": "Baseline/variant, controls, measures and pre-specified acceptance criteria"
+    },
+    {
+      "id": "build",
+      "title": "Implementation and demonstration",
+      "evidence": "Versioned code, reproducible setup and clearly labelled demo"
+    },
+    {
+      "id": "evaluate",
+      "title": "Evaluation and assurance",
+      "evidence": "Raw observations, scientific analysis and proportionate QA/security/accessibility checks"
+    },
+    {
+      "id": "interpret",
+      "title": "Interpretation and review",
+      "evidence": "Evidence-supported conclusions, contribution comparison and limitations"
+    },
+    {
+      "id": "handoff",
+      "title": "Release and handoff",
+      "evidence": "Reviewed package, versioned record, accessible explanation and optional outreach draft"
+    }
+  ]
+}

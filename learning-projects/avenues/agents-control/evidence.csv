@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/modelcontextprotocol/python-sdk/tree/77001c96f9507be0f4d009b83210a384a5e08bda/src,77001c96f9507be0f4d009b83210a384a5e08bda,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,"Tool-protocol SDK; a component for permission experiments, not a complete secure agent."

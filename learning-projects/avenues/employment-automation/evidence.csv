@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/mesa/mesa/tree/013d2bbbba7f999962e041a0741c630ae61863ee/mesa,013d2bbbba7f999962e041a0741c630ae61863ee,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,"Agent-based simulation framework; simulated labour outcomes are conditional hypotheses, not economic forecasts."

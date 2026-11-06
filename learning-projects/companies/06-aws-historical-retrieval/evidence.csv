@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/aws-samples/amazon-bedrock-samples/tree/d481795702a043af8fcedfdf843b94ec20224675/rag,d481795702a043af8fcedfdf843b94ec20224675,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Bedrock sample applications; the managed knowledge-base service remains external.

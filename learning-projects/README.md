@@ -62,3 +62,7 @@ Grace supplied the research direction and requested these workspaces; AI assista
 - Created 39 independently linked folders and their source manifests, hand-annotation files and offline starters.
 - Checked repository/code-path accessibility; documented SDK versus service boundaries and unresolved reuse terms.
 - Model/API experiments, human ground-truth review and research findings remain unperformed at setup.
+
+## Research dossiers and interactive workbench
+
+Each of the 39 folders now includes `RESEARCH.md`, `ROADMAP.mmd`, `milestones.csv` and `evidence.csv`, with a link to its own online research view. The original notes, source manifests and offline starters are preserved. [Read the shared research guide](RESEARCH-GUIDE.md) or [open the online collection](https://manifoldgrace.github.io/research-project.html). The workbench supports local drafting, export/import and browser-only HTML/CSS/JavaScript demonstrations; it does not run a model API or sync drafts to GitHub.

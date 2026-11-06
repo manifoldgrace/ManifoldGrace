@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/NVIDIA-NeMo/Guardrails/tree/96a8a438099bd17c703de60273722f819edfef51/nemoguardrails,96a8a438099bd17c703de60273722f819edfef51,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Guardrail toolkit; no guarantee of complete fact checking or source independence.

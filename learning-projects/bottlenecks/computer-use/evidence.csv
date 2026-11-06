@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/xlang-ai/OSWorld/tree/8903ebeb0efdf74331bd7dc37ed91ccbbff22317/desktop_env,8903ebeb0efdf74331bd7dc37ed91ccbbff22317,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Computer-use benchmark environment; inspect benchmark version before comparing against OSWorld 2.0 claims.

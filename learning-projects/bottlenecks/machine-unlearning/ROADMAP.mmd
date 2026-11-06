@@ -1,0 +1,9 @@
+flowchart TD
+  Q["Question and evidence map"] --> I["History and annotated code"]
+  I --> D["Comparative design and architecture"]
+  D --> B["Implementation and demonstration"]
+  B --> E["Scientific evaluation and assurance"]
+  E --> C["Interpretation and limitations"]
+  E -->|"Revise hypothesis or design"| D
+  C --> H["Accessible release and handoff"]
+  C -->|"Unresolved question"| Q

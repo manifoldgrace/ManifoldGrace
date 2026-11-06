@@ -1,0 +1,8 @@
+milestone_id,milestone,acceptance_evidence,status,artifact_link,decision_or_next_action
+scope,Question and evidence map,"Bounded question, search scope and primary-source register",not_started,,
+inspect,History and code inspection,"Dated lineage, annotated source paths and architecture boundaries",not_started,,
+design,Comparative design,"Baseline/variant, controls, measures and pre-specified acceptance criteria",not_started,,
+build,Implementation and demonstration,"Versioned code, reproducible setup and clearly labelled demo",not_started,,
+evaluate,Evaluation and assurance,"Raw observations, scientific analysis and proportionate QA/security/accessibility checks",not_started,,
+interpret,Interpretation and review,"Evidence-supported conclusions, contribution comparison and limitations",not_started,,
+handoff,Release and handoff,"Reviewed package, versioned record, accessible explanation and optional outreach draft",not_started,,

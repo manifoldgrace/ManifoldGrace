@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/anthropics/anthropic-sdk-python/tree/4c7b598466b88559583f98216139be8e9b34c1fc/src,4c7b598466b88559583f98216139be8e9b34c1fc,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Official API client; native citation and schema compatibility remain service-side questions.

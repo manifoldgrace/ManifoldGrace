@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/QwenLM/qwen-code/tree/7bd78683e63a50334fbcb124568101868048264c/packages,7bd78683e63a50334fbcb124568101868048264c,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Coding-agent source; parent/subagent rule ownership can be inspected here.

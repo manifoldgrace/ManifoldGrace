@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/openai/openai-python/tree/c6fc264689d384d5caec150fafa1a9567c4a3f56/src,c6fc264689d384d5caec150fafa1a9567c4a3f56,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Official API client; does not expose ChatGPT memory internals.

@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/meta-llama/llama-models/tree/0e0b8c519242d5833d8c11bffc1232b77ad7f301/models,0e0b8c519242d5833d8c11bffc1232b77ad7f301,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Llama reference utilities and model-specific materials; custom terms vary by model. Not a complete hosted API.

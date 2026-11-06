@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/microsoft/autogen/tree/d07c667a3239ea4ab7af62a53b0f4ff205a1f23d/python,d07c667a3239ea4ab7af62a53b0f4ff205a1f23d,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Agent framework for a local analogue; not Microsoft 365 Copilot implementation or tenant audit code.

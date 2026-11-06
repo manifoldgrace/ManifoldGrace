@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/mlco2/codecarbon/tree/ab8627a1cc88d3e5bb8b4ee953891a677ecdd49c/codecarbon,ab8627a1cc88d3e5bb8b4ee953891a677ecdd49c,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Emissions/energy estimation toolkit; distinguish estimates from direct power measurement and grid constraints.

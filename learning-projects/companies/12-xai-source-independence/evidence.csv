@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/xai-org/xai-sdk-python/tree/884ba42c74408c37eddcc8092e0299dbd8dd38ac/src,884ba42c74408c37eddcc8092e0299dbd8dd38ac,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Official API client; does not expose Grok training data or source ancestry automatically.

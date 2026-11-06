@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/sympy/sympy/tree/a1e6fd3993dae123441783a9f995527bb064932b/sympy,a1e6fd3993dae123441783a9f995527bb064932b,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Symbolic mathematics toolkit for an exact reference baseline; not source code for the cited Apple study.

@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/Project-MONAI/MONAI/tree/c5bddb21ccaaf3654a87c65ede6d2c7bd82e4128/monai,c5bddb21ccaaf3654a87c65ede6d2c7bd82e4128,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Medical-imaging research framework; not a clinically validated service or substitute for domain review.

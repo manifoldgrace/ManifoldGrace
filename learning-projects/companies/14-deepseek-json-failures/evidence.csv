@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/deepseek-ai/DeepSeek-V3/tree/9b4e9788e4a3a731f7567338ed15d3ec549ce03b/inference,9b4e9788e4a3a731f7567338ed15d3ec549ce03b,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,"Reference inference code, not the hosted JSON-mode implementation; model weights have separate terms."

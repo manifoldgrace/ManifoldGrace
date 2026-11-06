@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/fw-ai-external/cookbook/tree/8f5500758ed4a9bb8f6cc34969cceb30ecb7ba07/eval,8f5500758ed4a9bb8f6cc34969cceb30ecb7ba07,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Official cookbook evaluation examples; not the hosted inference implementation.

@@ -1,0 +1,2 @@
+claim_id,claim_or_question,source_url_or_artifact,source_date_or_revision,evidence_role,checking_method,status,contrary_evidence,limitations
+source-01,Starting code repository is linked; substantive claims not yet evaluated,https://github.com/mistralai/client-python/tree/d3da3bd3c63d0502449e1e765bc2d3c16d0d2f1d/src,d3da3bd3c63d0502449e1e765bc2d3c16d0d2f1d,implementation starting point,source-path check from setup,source_link_checked_not_scientific_validation,,Official API client; connector availability and traces depend on the selected service.
